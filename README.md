@@ -17,3 +17,4 @@ A software developer living in Japan.
 - LINE Growth Technology Corporation (2019-2020)
 - Kaizen Platform, Inc. (2015-2019)
 - CyberAgent, Inc. (2012-2015)
+- Amateur scriptwriter and stage director / Web designer (2005-2011)
