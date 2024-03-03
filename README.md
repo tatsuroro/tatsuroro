@@ -2,8 +2,6 @@ A software developer living in Japan.
 
 [![tatsuroro's GitHub stats](https://github-readme-stats.vercel.app/api?username=tatsuroro)](https://github.com/tatsuroro/github-readme-stats)
 
-
-- 🌱 I’m currently learning Kotlin, Rust, Ruby
 - 🔭 I’m currently working on Ubie, Inc. / Ubie Discovery
 
 ## Skills
