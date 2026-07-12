@@ -1,6 +1,6 @@
 A software developer living in Japan.
 
-- 🔭 I’m currently working on Ubie, Inc. / Ubie Discovery
+- 🔭 I’m currently working on Ubie, Inc.
 
 ## Skills
 
